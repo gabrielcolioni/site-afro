@@ -46,3 +46,8 @@ footer {
   color:white
 }
 
+section p {
+  height: 50%;
+  text-align: left;
+  display:  inline;
+}
