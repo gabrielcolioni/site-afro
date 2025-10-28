@@ -37,12 +37,14 @@ section {
   background-color: white;
   border-radius: 5px;
   text-align: left;
-  display: inline;
 }
 
 footer {
   text-align: center;
   padding: 10px;
   background-color: #333;
-  color: white;
+  color: white
+}
+p {
+  display: inline;
 }
