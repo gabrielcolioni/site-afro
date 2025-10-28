@@ -45,6 +45,8 @@ footer {
   background-color: #333;
   color: white
 }
+
 p {
   display: inline;
+text-align: left;
 }
