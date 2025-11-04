@@ -16,7 +16,7 @@ header {
 nav ul {
   list-style: none;
   text-align: center;
-  background-color: #F4E9D7;
+  background-color: B8C4A9;
   margin: 0;
   padding: 10px;
 }
@@ -34,7 +34,7 @@ nav ul li a {
 section {
   padding: 20px;
   margin: 10px;
-  background-color: B8C4A9;
+  background-color: F4E9D7;
   border-radius: 5px;
   text-align: left;
 }
@@ -42,7 +42,7 @@ section {
 footer {
   text-align: center;
   padding: 10px;
-  background-color: D97D55;
+  background-color: 6FA4AF;
   color:white
 }
 
