@@ -1,3 +1,8 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
   font-family: Arial, sans-serif;
   background-color: #F4E9D7;
@@ -7,7 +12,7 @@ body {
 }
 
 header {
-  background-color:#D97D55;
+  background-color: #6FA4AF;
   color: white;
   text-align: center;
   padding: 20px;
