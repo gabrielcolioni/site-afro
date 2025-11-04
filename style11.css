@@ -41,6 +41,12 @@ section {
   border-radius: 5px;
   text-align: left;
 }
+.letra{
+  text-align: left;
+  margin-left: 10px;
+  color:rgb black
+
+}
 
 footer {
   text-align: center;
