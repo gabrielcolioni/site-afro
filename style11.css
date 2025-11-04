@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
-  color: #333;
+  color: D97D55;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #333;
+  background-color:#D97D55;
   color: white;
   text-align: center;
   padding: 20px;
@@ -16,7 +16,7 @@ header {
 nav ul {
   list-style: none;
   text-align: center;
-  background-color: #444;
+  background-color: #F4E9D7;
   margin: 0;
   padding: 10px;
 }
@@ -34,7 +34,7 @@ nav ul li a {
 section {
   padding: 20px;
   margin: 10px;
-  background-color: rgb(138, 136, 136);
+  background-color: B8C4A9;
   border-radius: 5px;
   text-align: left;
 }
@@ -42,7 +42,7 @@ section {
 footer {
   text-align: center;
   padding: 10px;
-  background-color: #333;
+  background-color: D97D55;
   color:white
 }
 
@@ -50,5 +50,5 @@ section p {
   text-align: left;
   display: block;
   width: 50%;
-  color:#e6e1e0
+  color:6FA4AF
 } 
