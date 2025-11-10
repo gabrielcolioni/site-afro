@@ -54,6 +54,10 @@ section {
 
 }
 
+.informacoes{
+  margin-left: 15px;
+}
+
 footer {
   text-align: center;
   padding: 10px;
