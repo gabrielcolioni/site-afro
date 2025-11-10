@@ -41,6 +41,10 @@ section {
   border-radius: 5px;
   text-align: left;
 }
+
+.ouca{
+  text-align: center;
+}
 .letra{
   text-align: left;
   margin-left: 40vh;
